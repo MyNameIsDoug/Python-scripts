@@ -4,7 +4,7 @@ The aim was to write a simple and useful QPython 2.7.2 script. The script runs q
 
 Paths for the input and output files need to be modified for the device the script is used on.
 
-To use the script on your device click on the Download Zip button. You will need the QPython 2.7.2 app or you could modify the script to run on other versions of Python :)
+To use the script on your device, click on the Download Zip button. You will need the QPython 2.7.2 app or you could modify the script to run on other versions of Python :)
 
 If you use the script it is your responsibility to ensure it is fit for purpose.
 
